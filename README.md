@@ -9,7 +9,7 @@ Réaliser une page web CV, reprenant tous les éléments d'un CV classique : par
 - Réaliser un wireframe soit sur papier soit à l'aide d'un logiciel libre.
 - Réaliser la structure de votre CV en HTML.
 - Le faire valider.
-- *Une fois validé*, rajouter les formes grace à CSS.
+- **Une fois validé**, rajouter les formes grace à CSS.
 
 ## Bonus :
 
