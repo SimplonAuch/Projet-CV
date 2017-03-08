@@ -14,3 +14,4 @@ Réaliser une page web CV, reprenant tous les éléments d'un CV classique : par
 ## Bonus :
 
 - Votre CV doit être responsive où adaptative.
+- Ne vous préoccupez pas trop du design, ce n'est pas ça qui est important pour le moement
